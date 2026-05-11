@@ -1,4 +1,4 @@
-
+secure Brushes for Figma for macOS - content-aware fill and batch processing is the best Figma for macOS brush, featuring content-aware fill and batch processing. Safe, efficient,
 
 
 
